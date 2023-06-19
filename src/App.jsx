@@ -25,7 +25,7 @@ function App() {
       <div className='cards'>
       <h2>Dashboard de energias renovables</h2>
       <img src='https://tenor.com/es/view/ypf-energia-energy-energiaquenosune-aerogenerador-gif-14099853.gif' style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "100px" }}/>
-      <img src={logo} className='img'/>
+      {/* <img src={logo} className='img'/> */}
       </div>
       <div className='sidebar'>
         <SideContent/> 
